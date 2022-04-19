@@ -2,7 +2,7 @@
 
 I am a 3rd year PhD student in mathematics at the University of Wisconsin - Madison. My advisor is [Simon Marshall](https://people.math.wisc.edu/~marshall/). 
 
-Email: xplharris@wisc.edu without the x. 
+Email: plharris@wisc.edu
 
 ## Publications
 
