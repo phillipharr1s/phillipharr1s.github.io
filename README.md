@@ -6,7 +6,7 @@ Email: plharris@wisc.edu
 
 ## Publications
 
-1. _Random Nilpotent Groups of Maximal Step_. Harris, Phillip. (Accepted, New York Journal of Mathematics)
+1. [_Random Nilpotent Groups of Maximal Step_](https://arxiv.org/pdf/2201.06033.pdf). Harris, Phillip. (Accepted, New York Journal of Mathematics)
       
 
 1. _Average Frobenius Distributions in Short Intervals_. A. Agwu, P. Harris, S. Kannan, K. James, H. Li. (Accepted, Ramanujan Journal)
