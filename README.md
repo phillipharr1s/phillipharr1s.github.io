@@ -4,6 +4,8 @@ I am a 3rd year PhD student in mathematics at the University of Wisconsin - Madi
 
 Email: plharris@wisc.edu
 
+[[Full CV]](https://github.com/phillipharr1s/phillipharr1s.github.io/blob/master/docs/phillipharris-04-2022.pdf).
+
 ## Publications
 
 1. _Random Nilpotent Groups of Maximal Step_. Harris, Phillip. (Accepted, New York Journal of Mathematics) [[arxiv]](https://arxiv.org/abs/2201.06033)
@@ -24,4 +26,4 @@ Email: plharris@wisc.edu
 * MATH 240 Introduction to Discrete Mathematics (Fall 2020)
 
 
-[Full CV](https://github.com/phillipharr1s/phillipharr1s.github.io/blob/master/docs/phillipharris-04-2022.pdf).
+
