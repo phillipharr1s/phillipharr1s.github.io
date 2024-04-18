@@ -1,6 +1,6 @@
 # Phillip Harris 
 
-I am a 3rd year PhD student in mathematics at the University of Wisconsin - Madison. My advisor is [Simon Marshall](https://people.math.wisc.edu/~marshall/). 
+I am a 5th year PhD student in mathematics at the University of Wisconsin - Madison. My advisor is [Simon Marshall](https://people.math.wisc.edu/~marshall/). 
 
 Email: plharris@wisc.edu
 
@@ -11,9 +11,9 @@ Email: plharris@wisc.edu
 1. _Random Nilpotent Groups of Maximal Step_. Harris, Phillip. (Accepted, New York Journal of Mathematics) [[arxiv]](https://arxiv.org/abs/2201.06033)
       
 
-1. _Average Frobenius Distributions in Short Intervals_. A. Agwu, P. Harris, S. Kannan, K. James, H. Li. (Accepted, Ramanujan Journal)
+1. _Frobenius distributions of elliptic curves in short intervals on average_. A. Agwu, P. Harris, S. Kannan, K. James, H. Li. Accepted, The Ramanujan Journal 58.1, 75-120, 2022.
 
-1. _Frobenius Distributions in Short Intervals for CM Elliptic Curves_. A. Agwu, P. Harris, S. Kannan, K. James, H. Li.  Journal of Number Theory, Volume 188, 263-280, 2018
+1. _Frobenius Distributions in Short Intervals for CM Elliptic Curves_. A. Agwu, P. Harris, S. Kannan, K. James, H. Li.  Journal of Number Theory, Volume 188, 263-280, 2018.
 
 
 
