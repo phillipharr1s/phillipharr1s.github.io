@@ -4,7 +4,7 @@ I am a 6th year PhD student in mathematics at the University of Wisconsin - Madi
 
 Email: plharris@wisc.edu
 
-[[Full CV]](https://github.com/phillipharr1s/phillipharr1s.github.io/blob/master/docs/PhillipHarrisCVOct24.pdf)
+[[Full CV]](https://nbviewer.org/github/phillipharr1s/phillipharr1s.github.io/blob/master/docs/PhillipHarrisCVOct24.pdf)
 
 [[Resume]](https://nbviewer.org/github/phillipharr1s/phillipharr1s.github.io/blob/master/docs/PhillipHarrisResumeOct24.pdf)
 
