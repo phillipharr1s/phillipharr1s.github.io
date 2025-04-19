@@ -10,7 +10,7 @@ Email: plharris@wisc.edu
 
 ## Publications
 
-1. _Uniform Bounds for Maximal Flat Periods on on SL(n,R)_. Harris, Phillip [[arxiv]](https://arxiv.org/abs/2410.15450)
+1. _Uniform Bounds for Maximal Flat Periods on SL(n,R)_. Harris, Phillip [[arxiv]](https://arxiv.org/abs/2410.15450)
 
 1. _Random Nilpotent Groups of Maximal Step_. Harris, Phillip. (Accepted, New York Journal of Mathematics) [[arxiv]](https://arxiv.org/abs/2201.06033)
       
