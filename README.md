@@ -2,7 +2,9 @@
 
 I am a 6th year PhD student in mathematics at the University of Wisconsin - Madison. My advisor is [Simon Marshall](https://people.math.wisc.edu/~marshall/). 
 
-Email: plharris@wisc.edu
+In Fall 2025 I will be a postdoc at Bonn working with [Valentin Blomer](https://www.math.uni-bonn.de/people/blomer/).
+
+Email: palindromeh@gmail.com
 
 [[Full CV]](https://nbviewer.org/github/phillipharr1s/phillipharr1s.github.io/blob/master/docs/PhillipHarrisCVOct24.pdf)
 
