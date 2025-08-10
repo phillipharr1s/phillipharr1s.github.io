@@ -1,6 +1,6 @@
 # Phillip Harris 
 
-I am a 6th year PhD student in mathematics at the University of Wisconsin - Madison. My advisor is [Simon Marshall](https://people.math.wisc.edu/~marshall/). 
+I received my PhD in mathematics at the University of Wisconsin - Madison in May 2025. My advisor was [Simon Marshall](https://people.math.wisc.edu/~marshall/). 
 
 In Fall 2025 I will be a postdoc at Bonn working with [Valentin Blomer](https://www.math.uni-bonn.de/people/blomer/).
 
