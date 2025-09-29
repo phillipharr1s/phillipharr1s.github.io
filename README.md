@@ -12,7 +12,7 @@ I received my PhD in mathematics at the University of Wisconsin - Madison in May
 
 Email: palindromeh@gmail.com 
 
-[[Twitter]](https://x.com/phillipharr1s) [[Github]](http://github.com/phillipharr1s/)
+[[Twitter]](https://x.com/phillipharr1s)
 
 ## Publications
 
