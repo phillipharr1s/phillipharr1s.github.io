@@ -2,13 +2,13 @@
 
 I'm a postdoc at the University of Bonn working with [Valentin Blomer](https://www.math.uni-bonn.de/people/blomer/) and [Tobias Weich](https://math.uni-paderborn.de/ag/arbeitsgruppe-spektralanalysis/).
 
-I received my PhD in mathematics at the University of Wisconsin - Madison in May 2025. My advisor was [Simon Marshall](https://people.math.wisc.edu/~marshall/). 
+I received my PhD in mathematics at the University of Wisconsin - Madison in May 2025 under [Simon Marshall](https://people.math.wisc.edu/~marshall/). 
 
-Email: palindromeh@gmail.com
+[[Resume]](https://nbviewer.org/github/phillipharr1s/phillipharr1s.github.io/blob/master/docs/PhillipHarrisResumeOct24.pdf) [[Academic CV]](https://nbviewer.org/github/phillipharr1s/phillipharr1s.github.io/blob/master/docs/PhillipHarrisCVOct24.pdf)
 
-[[Full CV]](https://nbviewer.org/github/phillipharr1s/phillipharr1s.github.io/blob/master/docs/PhillipHarrisCVOct24.pdf)
+## Contact
 
-[[Resume]](https://nbviewer.org/github/phillipharr1s/phillipharr1s.github.io/blob/master/docs/PhillipHarrisResumeOct24.pdf)
+Email: palindromeh@gmail.com [[Twitter]](https://x.com/phillipharr1s) [[Github]](http://github.com/phillipharr1s/)
 
 ## Publications
 
