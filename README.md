@@ -23,7 +23,7 @@ Email: palindromeh@gmail.com
 1. _Random Nilpotent Groups of Maximal Step_, in New York Journal
 of Mathematics, Volume 28, 1365-1371 (2022) [[arxiv]](https://arxiv.org/abs/2201.06033)
       
-1. _Frobenius distributions of elliptic curves in short intervals on average_, with Anthony Agwu, [Siddarth. Kannan](https://sites.google.com/view/siddarthkannan/about-me), [Kevin James](https://www.math.clemson.edu/~kevja/), and [Huixi Li](https://huixil.wordpress.com/), in The Ramanujan Journal, Volume 58, 75–120 (2022) [[link]](https://doi.org/10.1007/s11139-021-00449-0)
+1. _Frobenius distributions of elliptic curves in short intervals on average_, with Anthony Agwu, [Siddarth Kannan](https://sites.google.com/view/siddarthkannan/about-me), [Kevin James](https://www.math.clemson.edu/~kevja/), and [Huixi Li](https://huixil.wordpress.com/), in The Ramanujan Journal, Volume 58, 75–120 (2022) [[link]](https://doi.org/10.1007/s11139-021-00449-0)
 
 1. _Frobenius Distributions in Short Intervals for CM Elliptic Curves_, with Anthony Agwu, [Siddarth Kannan](https://sites.google.com/view/siddarthkannan/about-me), [Kevin James](https://www.math.clemson.edu/~kevja/), [Huixi Li](https://huixil.wordpress.com/), in Journal of Number Theory, Volume 188, 263-280, 2018. [[link]](https://doi.org/10.1016/j.jnt.2018.01.007)
 
