@@ -16,14 +16,16 @@ Email: palindromeh@gmail.com
 
 ## Publications
 
-1. _Uniform Bounds for Maximal Flat Periods on SL(n,R)_. Harris, Phillip [[arxiv]](https://arxiv.org/abs/2410.15450)
+1. _Limits to black-box amplification in QMA_, with [Scott Aaronson](https://www.scottaaronson.com/) and Freek Witteveen. [[arxiv]](https://arxiv.org/abs/2509.21131)
 
-1. _Random Nilpotent Groups of Maximal Step_. Harris, Phillip. New York Journal
+1. _Uniform Bounds for Maximal Flat Periods on SL(n,R)_. [[arxiv]](https://arxiv.org/abs/2410.15450)
+
+1. _Random Nilpotent Groups of Maximal Step_, in New York Journal
 of Mathematics, Volume 28, 1365-1371 (2022) [[arxiv]](https://arxiv.org/abs/2201.06033)
       
-1. _Frobenius distributions of elliptic curves in short intervals on average_. A. Agwu, P. Harris, [S. Kannan](https://sites.google.com/view/siddarthkannan/about-me), [K. James](https://www.math.clemson.edu/~kevja/), H. Li. The Ramanujan Journal, Volume 58, 75–120 (2022) [[link]](https://doi.org/10.1007/s11139-021-00449-0)
+1. _Frobenius distributions of elliptic curves in short intervals on average_, with Anthony Agwu, [Siddarth. Kannan](https://sites.google.com/view/siddarthkannan/about-me), [Kevin James](https://www.math.clemson.edu/~kevja/), and [Huixi Li](https://huixil.wordpress.com/), in The Ramanujan Journal, Volume 58, 75–120 (2022) [[link]](https://doi.org/10.1007/s11139-021-00449-0)
 
-1. _Frobenius Distributions in Short Intervals for CM Elliptic Curves_. A. Agwu, P. Harris, [S. Kannan](https://sites.google.com/view/siddarthkannan/about-me), [K. James](https://www.math.clemson.edu/~kevja/), H. Li.  Journal of Number Theory, Volume 188, 263-280, 2018. [[link]](https://doi.org/10.1016/j.jnt.2018.01.007)
+1. _Frobenius Distributions in Short Intervals for CM Elliptic Curves_, with Anthony Agwu, [Siddarth Kannan](https://sites.google.com/view/siddarthkannan/about-me), [Kevin James](https://www.math.clemson.edu/~kevja/), [Huixi Li](https://huixil.wordpress.com/), in Journal of Number Theory, Volume 188, 263-280, 2018. [[link]](https://doi.org/10.1016/j.jnt.2018.01.007)
 
 
 
