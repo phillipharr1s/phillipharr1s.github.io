@@ -4,15 +4,11 @@ I'm a postdoc at the University of Bonn working with [Valentin Blomer](https://w
 
 I received my PhD in mathematics at the University of Wisconsin - Madison in May 2025 under [Simon Marshall](https://people.math.wisc.edu/~marshall/). 
 
+Email: palindromeh@gmail.com 
+
 [[Resume]](https://nbviewer.org/github/phillipharr1s/phillipharr1s.github.io/blob/master/docs/PhillipHarrisResumeOct24.pdf) 
 
 [[Academic CV]](https://nbviewer.org/github/phillipharr1s/phillipharr1s.github.io/blob/master/docs/PhillipHarrisCVOct24.pdf)
-
-## Contact
-
-Email: palindromeh@gmail.com 
-
-[[Twitter]](https://x.com/phillipharr1s)
 
 ## Publications
 
